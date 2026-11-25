@@ -49,6 +49,7 @@ body {
 img { max-width: 100%; height: auto; display: block; }
 
 a {
-  text-decoration: none;
-  &:hover, &:focus-visible { text-decoration: underline; }
+    color: var(--brand);
+    text-decoration: none;
+    &:hover, &:focus-visible { text-decoration: underline; }
 }

@@ -16,6 +16,8 @@
         margin: 0 auto;
     }
 
+    &__brand{ color: var(--brand); font-weight: 700; }
+
     &__contacts { font-style: normal; }
 
     &__contacts-title {
